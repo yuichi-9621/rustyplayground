@@ -1,2 +1,7 @@
 # rustyplayground
-Learning Rust and just playing around
+Learning Rust, memo to self
+ - Basic data types
+ - Manupulating mutable strings
+ - Arrays
+ - Backtracing
+ - Detailed Backtracing (RUST_BACKTRACE=full)
