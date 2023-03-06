@@ -4,6 +4,8 @@ use std::mem;
 pub fn run() {
     let mut numbers: [i32; 5] = [1, 2, 3, 4, 5];
 
+    //let mut vector_nums: Vec<i32> = vec![1, 2, 3, 4];
+
     //use debug traits to show array
     println!("{:?}", numbers);
     println!("Array length: {}", numbers.len());
@@ -23,5 +25,5 @@ pub fn run() {
     let slice: &[i32] = &numbers[0..2];
     println!("Slice: {:?}", slice); //printing out array so :?
 
-    //println!("Slice the first 3: {}" )
+    //println!("Slice the first 3: {:?}", slice);
 }
