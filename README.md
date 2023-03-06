@@ -5,3 +5,6 @@ Learning Rust, memo to self
  - Arrays
  - Backtracing
  - Detailed Backtracing (RUST_BACKTRACE=full)
+ - Tuples
+ - Vectors
+ - 
