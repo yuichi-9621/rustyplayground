@@ -7,4 +7,10 @@ Learning Rust, memo to self
  - Detailed Backtracing (RUST_BACKTRACE=full)
  - Tuples
  - Vectors
- - 
+ - Enums
+ - Pointer reference
+ - Structs
+ - Functions
+ - Loops
+ - Conditionals
+ - Cli arguments
